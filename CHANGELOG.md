@@ -1,6 +1,18 @@
 Changelog
 ==========
 
+Version 4.3.0 *(2018-09-19)*
+----------------------------
+
+ * Rewrote the widget to scale text size dynamically on Android 8+
+ * Couple stability and translation improvements
+
+Version 4.2.0 *(2018-08-10)*
+----------------------------
+
+ * Show a timer notification if the app gets paused while it runs
+ * Couple other UX improvements
+
 Version 4.1.0 *(2018-07-08)*
 ----------------------------
 
